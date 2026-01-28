@@ -20,3 +20,6 @@ helloWorld()
 // --- end of added hello world function ---
 let userAge = 25;
 let userName = 'john doe'
+export let userInfo = {
+    name: "gulrukh"
+};
